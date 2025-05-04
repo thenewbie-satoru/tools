@@ -103,13 +103,25 @@ Welcome to your 🔥 **one-stop README** for becoming a beast hacker 💻. Wheth
 
 ---
 
-## 🌟 Bonus Utilities
+## 🌐 Useful Hacking Websites
 
-| Tool | Purpose |
-|------|---------|
-| **AutoRecon** | Auto recon scanner (targets + reports) |
-| **Nuclei** | Fast customizable vulnerability scanner |
-| **Burp Extensions** | Enhance Burp Suite with Turbo Intruder, etc. |
+| Website | Purpose |
+|---------|---------|
+| **CrackStation.net** | Online password hash cracking |
+| **HaveIBeenPwned.com** | Check if your email or data was breached |
+| **VirusTotal.com** | Analyze suspicious files/URLs |
+| **IntelligenceX.io** | Deep web, pastebin & dark web search |
+| **Censys.io** | Public device search engine (like Shodan) |
+| **Shodan.io** | Search exposed devices online (cams, routers, etc.) |
+| **crt.sh** | Discover subdomains via SSL cert logs |
+| **Hunter.io** | Find emails linked to a domain/company |
+| **BGP.he.net** | BGP, ASN & IP block lookups |
+| **OCCRP.org** | Investigative journalism (OSINT gold) |
+| **Crunchbase.com** | Company info (for corporate recon) |
+| **Archive.org (Wayback Machine)** | View archived versions of websites |
+| **DNSDumpster.com** | DNS recon and subdomain mapping |
+| **Wigle.net** | Wireless network mapping and geolocation |
+| **Wappalyzer.com** | Web tech stack discovery |
 
 ---
 
